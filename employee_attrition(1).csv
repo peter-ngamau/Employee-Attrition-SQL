@@ -1,0 +1,101 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,Education,Attrition
+EMP0000,50,HR,Analyst,32049,Bachelors,Yes
+EMP0001,36,Tech Support,Engineer,61616,Bachelors,Yes
+EMP0002,29,HR,Executive,133727,Bachelors,No
+EMP0003,42,Tech Support,Executive,142893,Masters,No
+EMP0004,40,Sales,Engineer,50932,Bachelors,Yes
+EMP0005,44,Tech Support,Manager,147796,PhD,No
+EMP0006,32,HR,Engineer,59855,PhD,No
+EMP0007,32,HR,Manager,91434,Bachelors,Yes
+EMP0008,45,Sales,Analyst,102694,PhD,Yes
+EMP0009,57,Tech Support,Analyst,73016,Bachelors,Yes
+EMP0010,45,Tech Support,Analyst,37400,Bachelors,No
+EMP0011,24,Sales,Executive,147858,PhD,No
+EMP0012,43,Tech Support,Analyst,72642,Bachelors,No
+EMP0013,23,Tech Support,Manager,45151,PhD,No
+EMP0014,45,HR,Analyst,81407,Masters,No
+EMP0015,51,Tech Support,Engineer,96690,Bachelors,No
+EMP0016,59,Tech Support,Engineer,34499,Masters,Yes
+EMP0017,23,Sales,Executive,36295,PhD,No
+EMP0018,42,Sales,Engineer,89040,Masters,Yes
+EMP0019,54,Engineering,Manager,42183,Masters,Yes
+EMP0020,33,HR,Analyst,59299,PhD,No
+EMP0021,43,Tech Support,Executive,42874,Masters,Yes
+EMP0022,46,Tech Support,Analyst,146336,Masters,Yes
+EMP0023,48,Engineering,Analyst,62711,PhD,No
+EMP0024,49,Tech Support,Manager,35539,Masters,No
+EMP0025,37,HR,Engineer,137941,PhD,Yes
+EMP0026,36,Engineering,Engineer,83351,Masters,Yes
+EMP0027,24,HR,Analyst,91267,PhD,No
+EMP0028,58,Engineering,Executive,78354,PhD,No
+EMP0029,28,Engineering,Engineer,32557,Masters,No
+EMP0030,42,Sales,Executive,68360,Masters,No
+EMP0031,30,HR,Engineer,112018,Masters,No
+EMP0032,39,Tech Support,Executive,32200,Bachelors,Yes
+EMP0033,25,Tech Support,Manager,142476,Bachelors,No
+EMP0034,46,HR,Executive,98497,Bachelors,No
+EMP0035,35,Tech Support,Manager,76975,PhD,No
+EMP0036,30,Tech Support,Manager,51357,Masters,Yes
+EMP0037,47,HR,Executive,149121,PhD,No
+EMP0038,23,Engineering,Manager,107505,Bachelors,No
+EMP0039,41,HR,Analyst,32869,Masters,No
+EMP0040,49,Engineering,Manager,91135,PhD,No
+EMP0041,28,Tech Support,Engineer,80108,Masters,No
+EMP0042,29,Tech Support,Executive,142296,PhD,No
+EMP0043,56,Tech Support,Analyst,124179,Masters,No
+EMP0044,35,Sales,Executive,120272,Bachelors,No
+EMP0045,38,Engineering,Engineer,68467,Bachelors,No
+EMP0046,57,Sales,Engineer,53328,Masters,No
+EMP0047,25,Sales,Engineer,149181,PhD,No
+EMP0048,23,HR,Manager,121412,Bachelors,No
+EMP0049,27,Sales,Manager,116831,Bachelors,Yes
+EMP0050,25,HR,Executive,33987,Bachelors,No
+EMP0051,50,HR,Executive,88871,Masters,No
+EMP0052,39,Sales,Analyst,52399,Masters,No
+EMP0053,47,Engineering,Analyst,76214,PhD,No
+EMP0054,55,Engineering,Executive,129522,PhD,No
+EMP0055,31,Engineering,Manager,116416,PhD,Yes
+EMP0056,57,Engineering,Engineer,100271,Masters,No
+EMP0057,35,Engineering,Executive,74064,Masters,Yes
+EMP0058,52,Sales,Analyst,100091,PhD,No
+EMP0059,36,Sales,Manager,137450,PhD,Yes
+EMP0060,29,Tech Support,Executive,70818,Masters,No
+EMP0061,35,Engineering,Executive,75525,PhD,No
+EMP0062,44,Sales,Manager,49830,Bachelors,No
+EMP0063,42,Tech Support,Executive,47429,Masters,No
+EMP0064,37,Engineering,Manager,36893,PhD,No
+EMP0065,39,HR,Engineer,146381,Masters,No
+EMP0066,45,Tech Support,Manager,109909,Bachelors,No
+EMP0067,47,Sales,Manager,77333,Masters,No
+EMP0068,46,HR,Manager,33436,Masters,No
+EMP0069,50,HR,Executive,104290,Masters,No
+EMP0070,36,HR,Executive,106213,Masters,No
+EMP0071,22,Tech Support,Manager,35895,Bachelors,Yes
+EMP0072,46,Sales,Executive,49738,Masters,No
+EMP0073,28,HR,Analyst,60746,Masters,No
+EMP0074,30,Engineering,Analyst,79377,PhD,No
+EMP0075,45,HR,Executive,78404,Masters,No
+EMP0076,22,HR,Executive,84045,PhD,No
+EMP0077,29,Tech Support,Manager,127888,Bachelors,No
+EMP0078,45,Tech Support,Engineer,69790,Bachelors,No
+EMP0079,32,Sales,Executive,137455,Bachelors,Yes
+EMP0080,38,Engineering,Analyst,35600,Bachelors,No
+EMP0081,29,Tech Support,Manager,124660,PhD,No
+EMP0082,56,HR,Executive,123179,Masters,No
+EMP0083,56,Sales,Analyst,70764,Bachelors,No
+EMP0084,54,HR,Analyst,104543,Masters,Yes
+EMP0085,26,HR,Engineer,75714,PhD,No
+EMP0086,49,Tech Support,Manager,86835,PhD,No
+EMP0087,28,Sales,Manager,132946,PhD,Yes
+EMP0088,30,Engineering,Engineer,139616,Bachelors,No
+EMP0089,29,Engineering,Engineer,135983,Masters,No
+EMP0090,33,Tech Support,Manager,103744,Masters,No
+EMP0091,55,Tech Support,Manager,86491,Masters,No
+EMP0092,54,Sales,Executive,48589,PhD,No
+EMP0093,44,Engineering,Executive,73484,Bachelors,Yes
+EMP0094,45,Engineering,Engineer,112989,PhD,Yes
+EMP0095,58,Engineering,Executive,66212,PhD,No
+EMP0096,56,HR,Analyst,73525,Masters,No
+EMP0097,43,Engineering,Executive,77202,PhD,No
+EMP0098,48,HR,Executive,62635,Masters,No
+EMP0099,56,Sales,Analyst,93208,Bachelors,No
